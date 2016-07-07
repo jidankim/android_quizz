@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quizzicle</string>
+
+    <string name="heading1">Challenge yourself today</string>
+    <string name="heading2">with\u0020</string>
+
+    <string name="category_physics">Category: Physics</string>
+
+    <!-- These questions were taken from physics category in the Science Bowl competition. -->
+    <string name="question1">Which of the following types of electromagnetic radiation has the greatest energy per photon?</string>
+    <string name="question1_choice1">Microwave</string>
+    <string name="question1_choice2">FM Radio</string>
+    <string name="question1_choice3">AM Radio</string>
+    <string name="question1_choice4">Violet Light</string>
+
+    <string name="question2">The characteristic that distinguishes a laser beam from an ordinary light beam is:</string>
+    <string name="question2_choice1">the greater frequency of the laser beam</string>
+    <string name="question2_choice2">the coherence of the laser beam</string>
+    <string name="question2_choice3">the color of the laser beam</string>
+    <string name="question2_choice4">the greater polarization of the laser beam</string>
+
+    <string name="question3">Pick the two units of electromagnetic induction.</string>
+    <string name="question3_choice1">Weber</string>
+    <string name="question3_choice2">Gauss</string>
+    <string name="question3_choice3">Farad</string>
+    <string name="question3_choice4">Tesla</string>
+    <string name="question3_choice5">Henry</string>
+    <string name="question3_choice6">Maxwell</string>
+
+    <string name="question4">An aluminum rod at a temperature of 100°C radiates energy at a rate of 10 watts. If its temperature is increased to 200°C, at approximately what rate will it radiate energy?</string>
+    <string name="question4_choice1">15 watts</string>
+    <string name="question4_choice2">20 watts</string>
+    <string name="question4_choice3">26 watts</string>
+    <string name="question4_choice4">80 watts</string>
+
+    <string name="question5">What number represents the ratio of speed of an object to the speed of sound in the surrounding air?</string>
+    <string name="question5_hint">Answer</string>
+
+    <string name="check">Check!</string>
+</resources>
